@@ -83,6 +83,7 @@ h6 {
 */
 .navbar {
   padding: 0;
+  background-color: transparent;
 }
 
 .navbar ul {
@@ -307,7 +308,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/Manan/Manan/assets/img/portfolio/hero.jpg") center;
+  background: url("../img/portfolio/hero.jpg") center;
   background-size: cover;
   position: relative;
 }
@@ -592,7 +593,7 @@ section {
 }
 
 .about .image {
-  background: url("/Manan/Manan/assets/img/portfolio/hero.jpg") center center no-repeat;
+  background: url("../img/portfolio/hero.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
